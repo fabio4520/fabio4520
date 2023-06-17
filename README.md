@@ -1,20 +1,29 @@
 # Hi there, I'm Fabio Fiestas! 👋🤘
 
-## I'm a full stack developer graduated from Codeable with experience as a Ruby on rails developer at Smartfit, where I was part of a team of backend developers working with the following technologies: **Ruby, Ruby on Rails, Rspec, Sidekiq, Docker, Aws, Jira, Git**.
+## I am a full stack web development programmer with experience working with ERP, fintech, etc. I am very passionate about technology, so I not only know web development, but also Machine learning, arduino, raspberry, among other things.
 
-- 🌱 I’m currently learning Rails/React stack.
-- 🥅 2022 Goals: Learn more about Reactjs and Rails.
-- ⚡ Fun fact: I love music and watch Formula 1 races.
+**Ruby, Ruby on Rails, Rspec, Sidekiq, Docker, Aws, Jira, Git**.
+**Javascript, Nodejs, Angular, React, Unit testing, AWS (s3, RDS, lambdas), Arduino, Python (focus on ML and data analysis)**.
+
+- 🌱 I’m currently learning about AWS to earn my first certificate.
+- 🥅 2023 Goals: Become a cloud engineer.
+- ⚡ Fun fact: I love cats, formula 1, gym and food.
+
+## My experience:
+
+- Smartfit: Important gym in Latin America that focuses on providing excellent service with state-of-the-art technology.
+- Bit24: Important ERP in Peru that focuses on mypes and pymes.
+- Joyit (Culqi): Pioneering online payment gateway in Peru
 
 ### Connect with me:
 
 <!-- Portfolio -->
 
-[<img src="https://png.pngtree.com/png-clipart/20190628/original/pngtree-rocket-logo-design-png-image_4032269.jpg" width="20">](https://chic-palmier-53e17f.netlify.app/#hero)
+Website: [<img src="https://png.pngtree.com/png-clipart/20190628/original/pngtree-rocket-logo-design-png-image_4032269.jpg" width="20">](https://portfolio-fabio-one.vercel.app)
 
 <!-- Linkedin -->
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/fabio-fiestas/)
+Linkedin: [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">](https://www.linkedin.com/in/fabio-fiestas/)
 
 ### Languages and Tools:
 
