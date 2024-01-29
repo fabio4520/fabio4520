@@ -6,7 +6,7 @@
 **Javascript, Nodejs, Angular, React, Unit testing, AWS (s3, RDS, lambdas), Arduino, Python (focus on ML and data analysis)**.
 
 - 🌱 I’m currently learning about AWS to earn my first certificate.
-- 🥅 2023 Goals: Become a cloud engineer.
+- 🥅 2024 Goals: Learn more about design patterns and clean code.
 - ⚡ Fun fact: I love cats, formula 1, gym and food.
 
 ## My experience:
